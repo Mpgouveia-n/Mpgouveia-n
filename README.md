@@ -1,4 +1,4 @@
-# 👋 Olá, sejam bem vindos a pequena descrição do Manuel Pedro Gouveia Neto
+#  Manuel Pedro Gouveia Neto
 
 💻 Desenvolvedor em formação 
 📡 Curso Técnico em Internet das Coisas (IoT) - Senac  
