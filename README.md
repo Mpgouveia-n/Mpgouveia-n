@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Tenho formação técnica em Internet das Coisas e experiência com redes, hardware e programação.
+Tenho formação técnica em Internet das Coisas e experiência com redes, hardware e programação. 
 
 Atualmente estou aprofundando meus conhecimentos em:
 
