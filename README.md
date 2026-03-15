@@ -68,9 +68,10 @@ Automação utilizando Arduino e sensores durante o curso técnico.
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpgouveia-n&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpgouveia-n&layout=compact&theme=tokyonight)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mpgouveia-n&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpgouveia-n&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
