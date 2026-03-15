@@ -38,10 +38,12 @@ Meu objetivo é iniciar minha carreira na área de tecnologia, contribuindo com 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-## 🧠 Tecnologias e Ferramentas
 
-### Conhecimentos
+
+### 🌐 IoT / Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🧠 Conhecimentos
 
 - Lógica de programação
 - CRUD
