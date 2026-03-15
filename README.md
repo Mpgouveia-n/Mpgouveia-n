@@ -78,5 +78,5 @@ Automação utilizando Arduino e sensores durante o curso técnico.
 ## 📫 Contato
 
 
-💼 LinkedIn: https://linkedin.com/in/seu-link  
+💼 LinkedIn: https://www.linkedin.com/in/manuel-pedro-gouveia-neto-89928638a/
 💻 GitHub: https://github.com/mpgouveia-n
